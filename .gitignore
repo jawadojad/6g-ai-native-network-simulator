@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv/
+*.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+*.csv
+*.h5
+*.pkl
+*.db
+*.sqlite
+*.json
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
